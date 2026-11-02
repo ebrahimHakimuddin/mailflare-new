@@ -120,4 +120,7 @@
 			},
 		],
 	},
+  "vars": {
+    "GITHUB_UPDATE_REPO": "ebrahimHakimuddin/mailflare-new"
+  },
 }
